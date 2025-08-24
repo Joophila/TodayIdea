@@ -1,0 +1,79 @@
+{
+  "stopwords_ko": [
+    "그리고",
+    "그러나",
+    "하지만",
+    "사실",
+    "오늘",
+    "내일",
+    "한국",
+    "대한민국",
+    "서울",
+    "뉴스",
+    "연예",
+    "정치",
+    "경제",
+    "사회"
+  ],
+  "stopwords_en": [
+    "the",
+    "and",
+    "or",
+    "for",
+    "to",
+    "of",
+    "in",
+    "on",
+    "news",
+    "celebrity",
+    "politics"
+  ],
+  "politics_keywords": [
+    "총선",
+    "대선",
+    "국회",
+    "정당",
+    "대통령",
+    "정부",
+    "정치",
+    "정무",
+    "외교",
+    "선거",
+    "의회",
+    "의원",
+    "청와대",
+    "백악관"
+  ],
+  "entertainment_keywords": [
+    "연예",
+    "아이돌",
+    "가요",
+    "드라마",
+    "영화제",
+    "배우",
+    "가수",
+    "컴백",
+    "뮤직비디오",
+    "예능",
+    "팬미팅"
+  ],
+  "blocked_subreddits": [
+    "politics",
+    "worldnews",
+    "news",
+    "entertainment",
+    "kpop",
+    "kdrama",
+    "celebs"
+  ],
+  "blocked_domains": [
+    "twitter.com",
+    "x.com",
+    "instagram.com",
+    "tiktok.com",
+    "facebook.com"
+  ],
+  "generic_length_threshold": 2,
+  "trend_volatility_sigma_min": 3.0,
+  "google_domain_diversity_min": 3
+}

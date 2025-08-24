@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width,initial-scale=1"/>
+  <title>IdeaBrowser‑KR</title>
+  <link rel="stylesheet" href="assets/styles.css"/>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+</head>
+<body>
+  <header class="hero"><div class="hero-inner">
+    <h1>IdeaBrowser‑KR</h1>
+    <p>한국 시장에 최적화된 아이디어 리서치 — 근거에 기반한 글쓰기.</p>
+    <div id="lastUpdated" class="muted"></div>
+  </div></header>
+  <main class="container">
+    <section class="controls">
+      <input id="filterInput" placeholder="검색(키워드/카테고리/태그)" />
+      <select id="categorySel"><option value="">모든 카테고리</option></select>
+      <button id="reloadBtn">새로고침</button>
+      <button id="manualBtn">업데이트 실행(깃허브)</button>
+    </section>
+    <section id="today" class="card today"><h2>오늘의 아이디어</h2><div id="todayBody">로딩 중…</div></section>
+    <section id="ideasList"></section>
+  </main>
+  <footer><small>© IdeaBrowser‑KR · Evidence‑grounded K‑Style · GitHub Pages</small></footer>
+  <script src="assets/app.js"></script>
+</body>
+</html>

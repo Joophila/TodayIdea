@@ -1,0 +1,30 @@
+{
+  "weights": {
+    "trend": 0.35,
+    "community": 0.25,
+    "news": 0.2,
+    "video": 0.1,
+    "regulatory_invert": 0.1
+  },
+  "days": "30",
+  "model": "gpt-4o-mini",
+  "tone": "간결하지만 전문적, 한국 시장 문체",
+  "max_ideas_per_run": 10,
+  "trust_coeff": {
+    "naver_datalab": 1.0,
+    "naver_news": 1.0,
+    "naver_blog": 0.85,
+    "naver_cafe": 0.75,
+    "daum_blog": 0.8,
+    "daum_cafe": 0.75,
+    "google": 0.75,
+    "reddit": 0.6,
+    "youtube": 0.6
+  },
+  "caps": {
+    "community_max_raw": 60,
+    "news_max_raw": 60,
+    "video_max_raw": 100
+  },
+  "kst_rollover_hour": 0
+}

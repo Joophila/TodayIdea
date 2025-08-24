@@ -1,0 +1,12 @@
+:root{--bg:#0b0c10;--text:#e6e6e6;--muted:#a0a0a0;--card:#121318;--line:#1f2430;--acc:#5aa5ff}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--text);font:14px/1.6 system-ui,'Apple SD Gothic Neo','Malgun Gothic',Roboto}
+.hero{background:linear-gradient(180deg,#0f1117 0,#0b0c10 100%);border-bottom:1px solid var(--line)}.hero-inner{max-width:1100px;margin:0 auto;padding:28px 16px}
+.container{max-width:1100px;margin:0 auto;padding:16px}.muted{color:var(--muted)}.controls{display:flex;gap:8px;align-items:center;margin:14px 0}
+input,select{background:#0f1117;border:1px solid var(--line);color:var(--text);padding:8px 10px;border-radius:10px}
+button{background:var(--acc);border:0;color:#001a33;padding:8px 12px;border-radius:10px;font-weight:700;cursor:pointer}
+.card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:16px;margin-bottom:14px}
+.badge{display:inline-block;background:#0f305a;color:#a9d4ff;border-radius:999px;padding:2px 8px;margin-right:6px;font-size:12px}
+.grid{display:grid;gap:12px}.grid.cols-2{grid-template-columns:1fr 1fr}.grid.cols-3{grid-template-columns:1fr 1fr 1fr}
+.chart-box{padding:12px;background:#0f1117;border:1px solid var(--line);border-radius:12px}.idea-card{padding:0}
+.idea-card header{padding:14px 16px;border-bottom:1px solid var(--line);display:flex;justify-content:space-between;align-items:center}
+.small{font-size:12px;color:#9aa1aa}
