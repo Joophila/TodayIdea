@@ -1,0 +1,35 @@
+:root{--bg:#0b0c10;--text:#e6e6e6;--muted:#a0a0a0;--card:#121318;--line:#1f2430;--acc:#5aa5ff;--ok:#58d68d;--warn:#f5b041}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--text);font:14px/1.6 system-ui,'Apple SD Gothic Neo','Malgun Gothic',Roboto}
+.hero{background:linear-gradient(180deg,#0f1117 0,#0b0c10 100%);border-bottom:1px solid var(--line)}
+.hero-inner{max-width:1000px;margin:0 auto;padding:28px 16px}
+.container{max-width:1000px;margin:0 auto;padding:16px}
+h1,h2,h3{margin:0 0 8px 0}
+.muted{color:var(--muted)}
+.controls{display:flex;gap:8px;align-items:center;margin:14px 0}
+input,select{background:#0f1117;border:1px solid var(--line);color:var(--text);padding:8px 10px;border-radius:10px}
+button{background:var(--acc);border:0;color:#001a33;padding:8px 12px;border-radius:10px;font-weight:700;cursor:pointer}
+button:hover{filter:brightness(1.08)}
+.card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:16px;margin-bottom:14px}
+.today h2{margin-bottom:8px}
+.badge{display:inline-block;background:#0f305a;color:#a9d4ff;border-radius:999px;padding:2px 8px;margin-right:6px;font-size:12px}
+.grid{display:grid;gap:12px}
+.grid.cols-2{grid-template-columns:1fr 1fr}
+.grid.cols-3{grid-template-columns:1fr 1fr 1fr}
+.kv{display:grid;grid-template-columns:120px 1fr;gap:6px;margin:4px 0}
+.kv .k{color:#aab1bb}.kv .v{}
+.idea-card{padding:0}
+.idea-card header{padding:14px 16px;border-bottom:1px solid var(--line);display:flex;justify-content:space-between;align-items:center}
+.idea-card .body{padding:14px 16px}
+.table{width:100%;border-collapse:separate;border-spacing:0 10px}
+.table th{font-size:12px;color:#9aa1aa;text-align:left;padding:0 10px}
+.table td{padding:12px 10px;border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
+.table tr{background:var(--card)}
+.table tr td:first-child{border-left:1px solid var(--line);border-top-left-radius:10px;border-bottom-left-radius:10px}
+.table tr td:last-child{border-right:1px solid var(--line);border-top-right-radius:10px;border-bottom-right-radius:10px}
+.sec-title{font-weight:700;margin:8px 0 6px 0}
+.source-list{list-style:none;padding:0;margin:0}
+.source-list li{margin:4px 0}
+.small{font-size:12px;color:#9aa1aa}
+.chart-box{padding:12px;background:#0f1117;border:1px solid var(--line);border-radius:12px}
+footer{border-top:1px solid var(--line);padding:14px 16px;text-align:center;color:#9aa1aa}
