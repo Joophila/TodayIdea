@@ -107,12 +107,15 @@ def call_gpt(model, sys_prompt, user_prompt):
     except Exception as e: return f"알 수 없습니다 (GPT 오류: {e})"
 
 def build_prompt(idea):
-    ev=idea.get("evidence",[]); ev_lines=[]
-    for i,e in enumerate(ev, start=1):
+    ev = idea.get("evidence", [])
+    ev_lines = []
+    for i, e in enumerate(ev, start=1):
         ev_lines.append(f"[{i}] {e.get('title','')} ({e.get('publisher','')}, {e.get('date','')}) {e.get('url','')}")
-    ev_text="\\n".join(ev_lines[:12])
-    metrics=idea.get("metrics",{})
-    return f\"\"\"역할: 한국 시장 리서치 에디터. 모든 주장/숫자는 Evidence 번호로 근거. 근거 없으면 문장 안에 '근거가 부족합니다/확실하지 않음' 명시.
+    ev_text = "\n".join(ev_lines[:12])
+
+    metrics = idea.get("metrics", {})
+    return f"""
+역할: 한국 시장 리서치 에디터. 모든 주장/숫자는 Evidence 번호로 근거. 근거 없으면 문장 안에 '근거가 부족합니다/확실하지 않음' 명시.
 
 입력 지표: 검색지수 최근 {metrics.get('trend_last')}, 7일 {metrics.get('trend_delta_7')}%, 30일 {metrics.get('trend_delta_30')}%, σ {metrics.get('trend_sigma')}, 커뮤니티(가중) {metrics.get('community_weighted')}, 뉴스(가중) {metrics.get('news_weighted')}
 
@@ -124,7 +127,7 @@ Evidence:
 
 JSON만:
 {{"one_liner":"최대 30자. 과장 금지.","summary":"2~4문장. 각 사실 뒤 [번호].","why_now":"정책/행태/기술 변화. 근거 없으면 '근거가 부족합니다'.","gtm_tactics":["..."],"market":"...","risks":"...","validation_steps":["..."]}}
-\"\"\"
+"""
 
 def compute_metrics(series, comm_w, news_w):
     vals=[p.get('value',0.0) for p in series]
