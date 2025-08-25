@@ -1,6 +1,6 @@
 
 from __future__ import annotations
-import os, json, time, math, datetime as dt, requests
+import os, json, time, math, datetime, re as dt, requests
 from typing import Any, Dict, List
 
 NAVER_CLIENT_ID=os.getenv("NAVER_CLIENT_ID",""); NAVER_CLIENT_SECRET=os.getenv("NAVER_CLIENT_SECRET","")
@@ -27,6 +27,22 @@ def _is_generic(term, series, gdoms):
         if sigma<FILTERS.get("trend_volatility_sigma_min",3.0): return True
     if gdoms and len(set(gdoms))<FILTERS.get("google_domain_diversity_min",3): return True
     return False
+def try_parse_json(text: str):
+    if not text:
+        return None
+    s = text.strip()
+    # 코드펜스 제거
+    if s.startswith("```"):
+        s = re.sub(r"^```[a-zA-Z0-9]*\n|```$", "", s, flags=re.M)
+    # 본문에서 첫 JSON 블록 추출
+    m = re.search(r"\{.*\}", s, re.S)
+    if m:
+        blk = m.group(0)
+        try:
+            return json.loads(blk)
+        except Exception:
+            return None
+    return None
 
 def naver_datalab(kg, keywords, sd, ed):
     try:
