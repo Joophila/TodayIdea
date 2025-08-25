@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-08-24 19:10:20 UTC",
+  "generated_at": "2025-08-25 00:39:04 UTC",
   "ideas": [
     {
       "title": "감정기반 매칭 앱",
@@ -10,9 +10,9 @@
         "모바일"
       ],
       "score": {
-        "total": 40.15,
+        "total": 50.15,
         "breakdown": {
-          "trend": 71.43,
+          "trend": 100.0,
           "community": 34.58,
           "news": 0.0,
           "video": 15.0,
@@ -43,6 +43,10 @@
         {
           "date": "2025-08-19",
           "value": 71.42857
+        },
+        {
+          "date": "2025-08-24",
+          "value": 100.0
         }
       ],
       "community_top": [
@@ -154,15 +158,203 @@
         }
       ],
       "metrics": {
-        "trend_last": 71.43,
-        "trend_delta_7": -16.67,
-        "trend_delta_30": -16.67,
-        "trend_sigma": 9.82,
+        "trend_last": 100.0,
+        "trend_delta_7": 16.67,
+        "trend_delta_30": 16.67,
+        "trend_sigma": 10.8,
         "community_weighted": 20.75,
         "news_weighted": 0.0
       },
       "one_liner": "알 수 없습니다",
-      "summary": "```json\n{\n  \"one_liner\": \"감정 기반 매칭 앱의 필요성 증가.\",\n  \"summary\": \"최근 감정 기반 매칭 앱의 검색지수가 71.43으로 나타났으며, 7일 및 30일 동안 각각 -16.67% 감소했습니다. 커뮤니티 가중치는 20.75로, 사용자 관심이 여전히 존재함을 시사합니다. 뉴스 가중치는 0.0으로, 관련 뉴스가 부족함을 나타냅니다 [근거가 부족합니다].\",\n  \"why_now\": \"최근 사람들의 감정 표현 방식이 변화하고 있으며, 기술 발전으로 감정 기반 매칭이 가능해졌습니다 [근거가 부족합니다].\",\n  \"gtm_tactics\": [\"소셜 미디어 캠페인\", \"인플루언서 마케팅\", \"사용자 후기 활용\"],\n  \"market\": \"감정 기반 매칭 앱 시장은 지속적으로 성장하고 있으며, 사용자들의 관심이 높아지고 있습니다 [근거가 부족합니다].\",\n  \"risks\": \"경쟁이 치열하며, 사용자 이탈 가능성이 존재합니다.\",\n  \"validation_ste",
+      "summary": "```json\n{\n  \"one_liner\": \"감정 기반 매칭 앱의 필요성 증가.\",\n  \"summary\": \"최근 감정 기반 매칭 앱에 대한 관심이 증가하고 있으며, 검색 지수는 100.0으로 높습니다. 7일 및 30일 변화율은 각각 16.67%로 안정적인 성장을 보이고 있습니다. 커뮤니티에서의 가중치는 20.75로, 사용자 참여가 활발함을 나타냅니다 [1][2].\",\n  \"why_now\": \"소셜 미디어와 모바일 기술의 발전으로 감정 기반 매칭의 필요성이 커지고 있습니다. 또한, 사용자들이 기존 데이팅 앱에 대한 피로감을 느끼고 있다는 의견이 있습니다 [3].\",\n  \"gtm_tactics\": [\"소셜 미디어 캠페인\", \"인플루언서 마케팅\", \"사용자 피드백 기반 개선\"],\n  \"market\": \"한국의 모바일 앱 시장은 지속적으로 성장하고 있으며, 특히 소셜 및 데이팅 앱 부문에서 두드러진 성과를 보이고 있습니다. 그러나 구체적인 시장 규모에 대한 근거가 부족합니다.\",\n  \"",
+      "why_now": "확실하지 않음",
+      "gtm_tactics": [],
+      "market": "확실하지 않음",
+      "risks": "확실하지 않음",
+      "validation_steps": []
+    },
+    {
+      "title": "나노바나나",
+      "keyword_group": "나노바나나",
+      "category": "consumer",
+      "tags": [
+        "바이럴",
+        "틱톡"
+      ],
+      "score": {
+        "total": 28.08,
+        "breakdown": {
+          "trend": 36.96,
+          "community": 34.58,
+          "news": 0.0,
+          "video": 15.0,
+          "regulatory_invert": 50.0
+        }
+      },
+      "trend_series": [
+        {
+          "date": "2025-08-14",
+          "value": 0.82869
+        },
+        {
+          "date": "2025-08-15",
+          "value": 40.11131
+        },
+        {
+          "date": "2025-08-16",
+          "value": 74.82993
+        },
+        {
+          "date": "2025-08-17",
+          "value": 100.0
+        },
+        {
+          "date": "2025-08-18",
+          "value": 87.92826
+        },
+        {
+          "date": "2025-08-19",
+          "value": 88.86827
+        },
+        {
+          "date": "2025-08-20",
+          "value": 72.96227
+        },
+        {
+          "date": "2025-08-21",
+          "value": 71.44094
+        },
+        {
+          "date": "2025-08-22",
+          "value": 53.07359
+        },
+        {
+          "date": "2025-08-23",
+          "value": 30.61224
+        },
+        {
+          "date": "2025-08-24",
+          "value": 36.95732
+        }
+      ],
+      "community_top": [
+        {
+          "title": "nanobanana 이제는 랜덤 말고 직접 선택 Yupp AI 활용법",
+          "url": "https://blog.naver.com/rocorica/223982234749",
+          "source": "Daum Blog"
+        },
+        {
+          "title": "이 버튼만 누르면 내 사진이 피규어로? <b>나노</b><b>바나나</b> 사용법 완전 정리 (AI 사진 피규어 쉽게 만들기)",
+          "url": "https://newmessage.tistory.com/1172",
+          "source": "Daum Blog"
+        },
+        {
+          "title": "하면 좋은 자기관리 종류들.txt",
+          "url": "https://cafe.daum.net/subdued20club/ReHf/5421525",
+          "source": "Daum Cafe"
+        },
+        {
+          "title": "속보) 나노 바나나 선택해서 쓰는 방법 Yupp AI에서 나노 바나나 모델 ...",
+          "url": "https://www.threads.com/@choi.openai/post/DNuAzMq3jRI/%EC%86%8D%EB%B3%B4-%EB%82%98%EB%85%B8-%EB%B0%94%EB%82%98%EB%82%98-%EC%84%A0%ED%83%9D%ED%95%B4%EC%84%9C-%EC%93%B0%EB%8A%94-%EB%B0%A9%EB%B2%95yupp-ai%EC%97%90%EC%84%9C-%EB%82%98%EB%85%B8-%EB%B0%94%EB%82%98%EB%82%98-%EB%AA%A8%EB%8D%B8-%EC%84%A0%ED%83%9D-%EC%A7%80%EC%9B%90%EC%9C%BC%EB%A1%9C-%EC%84%A0%ED%83%9D%ED%95%B4%EC%84%9C-%EC%82%AC%EC%9A%A9-%EA%B0%80%EB%8A%A5%EC%9D%B4%EC%A0%9C-%ED%99%95%EB%A5%A0%EB%A1%9C-%EC%82%AC%EC%9A%A9%ED%95%98%EC%A7%80-%EB%A7%90%EA%B3%A0-%EC%A7%81%EC%A0%91-%EC%84%A0%ED%83%9D%ED%95%B4%EC%84%9C",
+          "source": "Google"
+        },
+        {
+          "title": "구글나노바나나(NANOBANANA) 사용법 A to Z https://m.blog.naver ...",
+          "url": "https://www.threads.com/@platformtree_/post/DNa_VsHv0uf/%EA%B5%AC%EA%B8%80%EB%82%98%EB%85%B8%EB%B0%94%EB%82%98%EB%82%98nanobanana-%EC%82%AC%EC%9A%A9%EB%B2%95-a-to-zhttpsmblognavercommichaelchae223972794986",
+          "source": "Google"
+        },
+        {
+          "title": "나노바나나 AI 사이트 완전 정리: LMArena 사용법과 피규어 생성 후기 ...",
+          "url": "https://blog.naver.com/techref/223976307462?fromRss=true&trackingCode=rss",
+          "source": "Google"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.threads.com/@choi.openai/post/DNuAzMq3jRI/%EC%86%8D%EB%B3%B4-%EB%82%98%EB%85%B8-%EB%B0%94%EB%82%98%EB%82%98-%EC%84%A0%ED%83%9D%ED%95%B4%EC%84%9C-%EC%93%B0%EB%8A%94-%EB%B0%A9%EB%B2%95yupp-ai%EC%97%90%EC%84%9C-%EB%82%98%EB%85%B8-%EB%B0%94%EB%82%98%EB%82%98-%EB%AA%A8%EB%8D%B8-%EC%84%A0%ED%83%9D-%EC%A7%80%EC%9B%90%EC%9C%BC%EB%A1%9C-%EC%84%A0%ED%83%9D%ED%95%B4%EC%84%9C-%EC%82%AC%EC%9A%A9-%EA%B0%80%EB%8A%A5%EC%9D%B4%EC%A0%9C-%ED%99%95%EB%A5%A0%EB%A1%9C-%EC%82%AC%EC%9A%A9%ED%95%98%EC%A7%80-%EB%A7%90%EA%B3%A0-%EC%A7%81%EC%A0%91-%EC%84%A0%ED%83%9D%ED%95%B4%EC%84%9C",
+          "title": "속보) 나노 바나나 선택해서 쓰는 방법 Yupp AI에서 나노 바나나 모델 ...",
+          "publisher": "Google",
+          "date": ""
+        },
+        {
+          "url": "https://www.threads.com/@platformtree_/post/DNa_VsHv0uf/%EA%B5%AC%EA%B8%80%EB%82%98%EB%85%B8%EB%B0%94%EB%82%98%EB%82%98nanobanana-%EC%82%AC%EC%9A%A9%EB%B2%95-a-to-zhttpsmblognavercommichaelchae223972794986",
+          "title": "구글나노바나나(NANOBANANA) 사용법 A to Z https://m.blog.naver ...",
+          "publisher": "Google",
+          "date": ""
+        },
+        {
+          "url": "https://blog.naver.com/techref/223976307462?fromRss=true&trackingCode=rss",
+          "title": "나노바나나 AI 사이트 완전 정리: LMArena 사용법과 피규어 생성 후기 ...",
+          "publisher": "Google",
+          "date": ""
+        },
+        {
+          "url": "https://www.threads.com/@choi.openai/post/DNc7JRCOOBs/video-%ED%99%94%EC%A0%9C%EC%9D%98-%EB%82%98%EB%85%B8%EB%B0%94%EB%82%98%EB%82%98-%EC%8B%A4%EC%A0%9C-3d-%EB%AA%A8%EB%8D%B8%EB%A7%81-%EC%A0%9C%EC%9E%91%ED%99%94%EC%A0%9C%EC%9D%98-%EB%82%98%EB%85%B8-%EB%B0%94%EB%82%98%EB%82%98-%EB%AA%A8%EB%8D%B8%EC%9D%84-%EC%8B%A4%EC%A0%9C%EB%A1%9C-3d-%EB%AA%A8%EB%8D%B8%EB%A7%81%EC%9D%84-%ED%95%98%EA%B3%A0-%EC%8B%B6%EC%9D%80-%EB%B6%84%EB%93%A4%EA%BB%98ai-3d-%EB%AA%A8%EB%8D%B8%EB%A7%81-%EC%A4%91-%EA%B0%95%EB%A0%A5%ED%95%9C-meshy-",
+          "title": "화제의 나노바나나 실제 3D 모델링 제작",
+          "publisher": "Google",
+          "date": ""
+        },
+        {
+          "url": "https://blog.naver.com/influencer33/223973020532?fromRss=true&trackingCode=rss",
+          "title": "나노 바나나 무엇일까요 : 네이버 블로그",
+          "publisher": "Google",
+          "date": ""
+        },
+        {
+          "url": "https://m.blog.naver.com/mc_kwak/223976795811",
+          "title": "lmarena 나노바나나 ai 프롬프트 명령어 사용법 케데헌 캐릭터 일관성 ...",
+          "publisher": "Google",
+          "date": ""
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.threads.com/@choi.openai/post/DNuAzMq3jRI/%EC%86%8D%EB%B3%B4-%EB%82%98%EB%85%B8-%EB%B0%94%EB%82%98%EB%82%98-%EC%84%A0%ED%83%9D%ED%95%B4%EC%84%9C-%EC%93%B0%EB%8A%94-%EB%B0%A9%EB%B2%95yupp-ai%EC%97%90%EC%84%9C-%EB%82%98%EB%85%B8-%EB%B0%94%EB%82%98%EB%82%98-%EB%AA%A8%EB%8D%B8-%EC%84%A0%ED%83%9D-%EC%A7%80%EC%9B%90%EC%9C%BC%EB%A1%9C-%EC%84%A0%ED%83%9D%ED%95%B4%EC%84%9C-%EC%82%AC%EC%9A%A9-%EA%B0%80%EB%8A%A5%EC%9D%B4%EC%A0%9C-%ED%99%95%EB%A5%A0%EB%A1%9C-%EC%82%AC%EC%9A%A9%ED%95%98%EC%A7%80-%EB%A7%90%EA%B3%A0-%EC%A7%81%EC%A0%91-%EC%84%A0%ED%83%9D%ED%95%B4%EC%84%9C",
+          "title": "속보) 나노 바나나 선택해서 쓰는 방법 Yupp AI에서 나노 바나나 모델 ...",
+          "publisher": "Google",
+          "date": ""
+        },
+        {
+          "url": "https://www.threads.com/@platformtree_/post/DNa_VsHv0uf/%EA%B5%AC%EA%B8%80%EB%82%98%EB%85%B8%EB%B0%94%EB%82%98%EB%82%98nanobanana-%EC%82%AC%EC%9A%A9%EB%B2%95-a-to-zhttpsmblognavercommichaelchae223972794986",
+          "title": "구글나노바나나(NANOBANANA) 사용법 A to Z https://m.blog.naver ...",
+          "publisher": "Google",
+          "date": ""
+        },
+        {
+          "url": "https://blog.naver.com/techref/223976307462?fromRss=true&trackingCode=rss",
+          "title": "나노바나나 AI 사이트 완전 정리: LMArena 사용법과 피규어 생성 후기 ...",
+          "publisher": "Google",
+          "date": ""
+        },
+        {
+          "url": "https://www.threads.com/@choi.openai/post/DNc7JRCOOBs/video-%ED%99%94%EC%A0%9C%EC%9D%98-%EB%82%98%EB%85%B8%EB%B0%94%EB%82%98%EB%82%98-%EC%8B%A4%EC%A0%9C-3d-%EB%AA%A8%EB%8D%B8%EB%A7%81-%EC%A0%9C%EC%9E%91%ED%99%94%EC%A0%9C%EC%9D%98-%EB%82%98%EB%85%B8-%EB%B0%94%EB%82%98%EB%82%98-%EB%AA%A8%EB%8D%B8%EC%9D%84-%EC%8B%A4%EC%A0%9C%EB%A1%9C-3d-%EB%AA%A8%EB%8D%B8%EB%A7%81%EC%9D%84-%ED%95%98%EA%B3%A0-%EC%8B%B6%EC%9D%80-%EB%B6%84%EB%93%A4%EA%BB%98ai-3d-%EB%AA%A8%EB%8D%B8%EB%A7%81-%EC%A4%91-%EA%B0%95%EB%A0%A5%ED%95%9C-meshy-",
+          "title": "화제의 나노바나나 실제 3D 모델링 제작",
+          "publisher": "Google",
+          "date": ""
+        },
+        {
+          "url": "https://blog.naver.com/influencer33/223973020532?fromRss=true&trackingCode=rss",
+          "title": "나노 바나나 무엇일까요 : 네이버 블로그",
+          "publisher": "Google",
+          "date": ""
+        },
+        {
+          "url": "https://m.blog.naver.com/mc_kwak/223976795811",
+          "title": "lmarena 나노바나나 ai 프롬프트 명령어 사용법 케데헌 캐릭터 일관성 ...",
+          "publisher": "Google",
+          "date": ""
+        }
+      ],
+      "metrics": {
+        "trend_last": 36.96,
+        "trend_delta_7": -57.97,
+        "trend_delta_30": 4359.73,
+        "trend_sigma": 28.72,
+        "community_weighted": 20.75,
+        "news_weighted": 0.0
+      },
+      "one_liner": "알 수 없습니다",
+      "summary": "```json\n{\n  \"one_liner\": \"나노바나나, AI로 3D 모델링 혁신.\",\n  \"summary\": \"최근 나노바나나의 검색지수가 36.96으로 나타났으며, 7일 동안 57.97% 감소하고 30일 동안 4359.73% 증가했습니다. 커뮤니티 가중치는 20.75, 뉴스 가중치는 0.0입니다. 이러한 변화는 나노바나나의 활용도와 관심도를 반영합니다.\",\n  \"why_now\": \"AI 기술의 발전과 3D 모델링의 수요 증가로 인해 나노바나나의 관심이 높아지고 있습니다. 근거가 부족합니다.\",\n  \"gtm_tactics\": [\"소셜 미디어 캠페인\", \"인플루언서 마케팅\", \"사용자 생성 콘텐츠 활용\"],\n  \"market\": \"소비자 시장에서 AI 기반 3D 모델링 솔루션의 수요가 증가하고 있습니다.\",\n  \"risks\": \"기술의 신뢰성 부족 및 사용자 경험의 불만족이 우려됩니다.\",\n  \"validation_steps\": [\"사용자 피드백 수집\", \"시장 반응 분석\", \"경",
       "why_now": "확실하지 않음",
       "gtm_tactics": [],
       "market": "확실하지 않음",
@@ -178,9 +370,9 @@
         "하드웨어"
       ],
       "score": {
-        "total": 31.19,
+        "total": 26.37,
         "breakdown": {
-          "trend": 44.94,
+          "trend": 31.18,
           "community": 35.83,
           "news": 0.0,
           "video": 15.0,
@@ -303,6 +495,10 @@
         {
           "date": "2025-08-23",
           "value": 44.94382
+        },
+        {
+          "date": "2025-08-24",
+          "value": 31.17977
         }
       ],
       "community_top": [
@@ -414,204 +610,28 @@
         }
       ],
       "metrics": {
-        "trend_last": 44.94,
-        "trend_delta_7": 8.11,
-        "trend_delta_30": 3.9,
-        "trend_sigma": 23.96,
+        "trend_last": 31.18,
+        "trend_delta_7": -63.25,
+        "trend_delta_30": -27.92,
+        "trend_sigma": 24.39,
         "community_weighted": 21.5,
         "news_weighted": 0.0
       },
-      "one_liner": "알 수 없습니다",
-      "summary": "```json\n{\n  \"one_liner\": \"AMR과 AGV의 차이점 분석\",\n  \"summary\": \"최근 AMR(자율 이동 로봇)과 AGV(자동 유도 차량)의 검색지수는 44.94로 나타났습니다. 7일간의 변화율은 8.11%, 30일간의 변화율은 3.9%입니다. 커뮤니티에서의 가중치는 21.5이며, 뉴스에서의 가중치는 0.0입니다. 이러한 데이터는 AMR과 AGV에 대한 관심이 증가하고 있음을 시사합니다. [근거가 부족합니다]\",\n  \"why_now\": \"로봇 기술의 발전과 물류 자동화의 필요성이 증가하고 있습니다. [근거가 부족합니다]\",\n  \"gtm_tactics\": [\"온라인 세미나 개최\", \"산업별 맞춤형 마케팅\", \"소셜 미디어 캠페인\"],\n  \"market\": \"로봇 시장은 지속적으로 성장하고 있으며, 특히 B2B 분야에서의 수요가 증가하고 있습니다. [근거가 부족합니다]\",\n  \"risks\": \"기술 발전 속도에 따른 경쟁 심화, 규제 변화에 따른 시장 진입 장벽 ",
-      "why_now": "확실하지 않음",
-      "gtm_tactics": [],
-      "market": "확실하지 않음",
-      "risks": "확실하지 않음",
-      "validation_steps": []
-    },
-    {
-      "title": "나노바나나",
-      "keyword_group": "나노바나나",
-      "category": "consumer",
-      "tags": [
-        "바이럴",
-        "틱톡"
+      "one_liner": "AMR과 AGV의 차이점 분석",
+      "summary": "최근 검색지수는 31.18로, 7일 전보다 63.25% 감소하였고, 30일 전보다 27.92% 감소했습니다. 커뮤니티 가중치는 21.5이며, 뉴스 가중치는 0.0입니다. 이러한 변화는 AMR과 AGV의 차이에 대한 관심이 줄어들고 있음을 나타냅니다. 근거가 부족합니다.",
+      "why_now": "로봇 기술의 발전과 물류 자동화의 필요성이 증가하고 있으나, 관심이 감소하는 추세입니다. 근거가 부족합니다.",
+      "gtm_tactics": [
+        "소셜 미디어 캠페인 강화",
+        "업계 전문가와의 협업",
+        "웹 세미나 개최"
       ],
-      "score": {
-        "total": 25.86,
-        "breakdown": {
-          "trend": 30.61,
-          "community": 34.58,
-          "news": 0.0,
-          "video": 15.0,
-          "regulatory_invert": 50.0
-        }
-      },
-      "trend_series": [
-        {
-          "date": "2025-08-14",
-          "value": 0.82869
-        },
-        {
-          "date": "2025-08-15",
-          "value": 40.11131
-        },
-        {
-          "date": "2025-08-16",
-          "value": 74.82993
-        },
-        {
-          "date": "2025-08-17",
-          "value": 100.0
-        },
-        {
-          "date": "2025-08-18",
-          "value": 87.92826
-        },
-        {
-          "date": "2025-08-19",
-          "value": 88.86827
-        },
-        {
-          "date": "2025-08-20",
-          "value": 72.96227
-        },
-        {
-          "date": "2025-08-21",
-          "value": 71.44094
-        },
-        {
-          "date": "2025-08-22",
-          "value": 53.07359
-        },
-        {
-          "date": "2025-08-23",
-          "value": 30.61224
-        }
-      ],
-      "community_top": [
-        {
-          "title": "찐 사용 후기로 알아보는 <b>나노</b> <b>바나나</b> 활용법 10가지",
-          "url": "https://blog.naver.com/applelhub/223981981923",
-          "source": "Daum Blog"
-        },
-        {
-          "title": "2025년 8월 셋째주 주간일기 바쁨",
-          "url": "https://blog.naver.com/talesoff/223982009534",
-          "source": "Daum Blog"
-        },
-        {
-          "title": "하면 좋은 자기관리 종류들.txt",
-          "url": "https://cafe.daum.net/subdued20club/ReHf/5421525",
-          "source": "Daum Cafe"
-        },
-        {
-          "title": "속보) 나노 바나나 선택해서 쓰는 방법 Yupp AI에서 나노 바나나 모델 ...",
-          "url": "https://www.threads.com/@choi.openai/post/DNuAzMq3jRI/%EC%86%8D%EB%B3%B4-%EB%82%98%EB%85%B8-%EB%B0%94%EB%82%98%EB%82%98-%EC%84%A0%ED%83%9D%ED%95%B4%EC%84%9C-%EC%93%B0%EB%8A%94-%EB%B0%A9%EB%B2%95yupp-ai%EC%97%90%EC%84%9C-%EB%82%98%EB%85%B8-%EB%B0%94%EB%82%98%EB%82%98-%EB%AA%A8%EB%8D%B8-%EC%84%A0%ED%83%9D-%EC%A7%80%EC%9B%90%EC%9C%BC%EB%A1%9C-%EC%84%A0%ED%83%9D%ED%95%B4%EC%84%9C-%EC%82%AC%EC%9A%A9-%EA%B0%80%EB%8A%A5%EC%9D%B4%EC%A0%9C-%ED%99%95%EB%A5%A0%EB%A1%9C-%EC%82%AC%EC%9A%A9%ED%95%98%EC%A7%80-%EB%A7%90%EA%B3%A0-%EC%A7%81%EC%A0%91-%EC%84%A0%ED%83%9D%ED%95%B4%EC%84%9C",
-          "source": "Google"
-        },
-        {
-          "title": "구글나노바나나(NANOBANANA) 사용법 A to Z https://m.blog.naver ...",
-          "url": "https://www.threads.com/@platformtree_/post/DNa_VsHv0uf/%EA%B5%AC%EA%B8%80%EB%82%98%EB%85%B8%EB%B0%94%EB%82%98%EB%82%98nanobanana-%EC%82%AC%EC%9A%A9%EB%B2%95-a-to-zhttpsmblognavercommichaelchae223972794986",
-          "source": "Google"
-        },
-        {
-          "title": "나노바나나 AI 사이트 완전 정리: LMArena 사용법과 피규어 생성 후기 ...",
-          "url": "https://blog.naver.com/techref/223976307462?fromRss=true&trackingCode=rss",
-          "source": "Google"
-        }
-      ],
-      "sources": [
-        {
-          "url": "https://www.threads.com/@choi.openai/post/DNuAzMq3jRI/%EC%86%8D%EB%B3%B4-%EB%82%98%EB%85%B8-%EB%B0%94%EB%82%98%EB%82%98-%EC%84%A0%ED%83%9D%ED%95%B4%EC%84%9C-%EC%93%B0%EB%8A%94-%EB%B0%A9%EB%B2%95yupp-ai%EC%97%90%EC%84%9C-%EB%82%98%EB%85%B8-%EB%B0%94%EB%82%98%EB%82%98-%EB%AA%A8%EB%8D%B8-%EC%84%A0%ED%83%9D-%EC%A7%80%EC%9B%90%EC%9C%BC%EB%A1%9C-%EC%84%A0%ED%83%9D%ED%95%B4%EC%84%9C-%EC%82%AC%EC%9A%A9-%EA%B0%80%EB%8A%A5%EC%9D%B4%EC%A0%9C-%ED%99%95%EB%A5%A0%EB%A1%9C-%EC%82%AC%EC%9A%A9%ED%95%98%EC%A7%80-%EB%A7%90%EA%B3%A0-%EC%A7%81%EC%A0%91-%EC%84%A0%ED%83%9D%ED%95%B4%EC%84%9C",
-          "title": "속보) 나노 바나나 선택해서 쓰는 방법 Yupp AI에서 나노 바나나 모델 ...",
-          "publisher": "Google",
-          "date": ""
-        },
-        {
-          "url": "https://www.threads.com/@platformtree_/post/DNa_VsHv0uf/%EA%B5%AC%EA%B8%80%EB%82%98%EB%85%B8%EB%B0%94%EB%82%98%EB%82%98nanobanana-%EC%82%AC%EC%9A%A9%EB%B2%95-a-to-zhttpsmblognavercommichaelchae223972794986",
-          "title": "구글나노바나나(NANOBANANA) 사용법 A to Z https://m.blog.naver ...",
-          "publisher": "Google",
-          "date": ""
-        },
-        {
-          "url": "https://blog.naver.com/techref/223976307462?fromRss=true&trackingCode=rss",
-          "title": "나노바나나 AI 사이트 완전 정리: LMArena 사용법과 피규어 생성 후기 ...",
-          "publisher": "Google",
-          "date": ""
-        },
-        {
-          "url": "https://www.threads.com/@choi.openai/post/DNc7JRCOOBs/video-%ED%99%94%EC%A0%9C%EC%9D%98-%EB%82%98%EB%85%B8%EB%B0%94%EB%82%98%EB%82%98-%EC%8B%A4%EC%A0%9C-3d-%EB%AA%A8%EB%8D%B8%EB%A7%81-%EC%A0%9C%EC%9E%91%ED%99%94%EC%A0%9C%EC%9D%98-%EB%82%98%EB%85%B8-%EB%B0%94%EB%82%98%EB%82%98-%EB%AA%A8%EB%8D%B8%EC%9D%84-%EC%8B%A4%EC%A0%9C%EB%A1%9C-3d-%EB%AA%A8%EB%8D%B8%EB%A7%81%EC%9D%84-%ED%95%98%EA%B3%A0-%EC%8B%B6%EC%9D%80-%EB%B6%84%EB%93%A4%EA%BB%98ai-3d-%EB%AA%A8%EB%8D%B8%EB%A7%81-%EC%A4%91-%EA%B0%95%EB%A0%A5%ED%95%9C-meshy-",
-          "title": "화제의 나노바나나 실제 3D 모델링 제작",
-          "publisher": "Google",
-          "date": ""
-        },
-        {
-          "url": "https://blog.naver.com/influencer33/223973020532?fromRss=true&trackingCode=rss",
-          "title": "나노 바나나 무엇일까요 : 네이버 블로그",
-          "publisher": "Google",
-          "date": ""
-        },
-        {
-          "url": "https://www.chosun.com/economy/tech_it/2025/08/18/UH3VBUEG7HWQL3J7775GW737AA/",
-          "title": "포토샵 대체한다고? 정체불명 AI에 쏠린 관심… '나노 바나나' 뭐길래",
-          "publisher": "Google",
-          "date": "2025-08-18T05:16:31.550Z"
-        }
-      ],
-      "evidence": [
-        {
-          "url": "https://www.threads.com/@choi.openai/post/DNuAzMq3jRI/%EC%86%8D%EB%B3%B4-%EB%82%98%EB%85%B8-%EB%B0%94%EB%82%98%EB%82%98-%EC%84%A0%ED%83%9D%ED%95%B4%EC%84%9C-%EC%93%B0%EB%8A%94-%EB%B0%A9%EB%B2%95yupp-ai%EC%97%90%EC%84%9C-%EB%82%98%EB%85%B8-%EB%B0%94%EB%82%98%EB%82%98-%EB%AA%A8%EB%8D%B8-%EC%84%A0%ED%83%9D-%EC%A7%80%EC%9B%90%EC%9C%BC%EB%A1%9C-%EC%84%A0%ED%83%9D%ED%95%B4%EC%84%9C-%EC%82%AC%EC%9A%A9-%EA%B0%80%EB%8A%A5%EC%9D%B4%EC%A0%9C-%ED%99%95%EB%A5%A0%EB%A1%9C-%EC%82%AC%EC%9A%A9%ED%95%98%EC%A7%80-%EB%A7%90%EA%B3%A0-%EC%A7%81%EC%A0%91-%EC%84%A0%ED%83%9D%ED%95%B4%EC%84%9C",
-          "title": "속보) 나노 바나나 선택해서 쓰는 방법 Yupp AI에서 나노 바나나 모델 ...",
-          "publisher": "Google",
-          "date": ""
-        },
-        {
-          "url": "https://www.threads.com/@platformtree_/post/DNa_VsHv0uf/%EA%B5%AC%EA%B8%80%EB%82%98%EB%85%B8%EB%B0%94%EB%82%98%EB%82%98nanobanana-%EC%82%AC%EC%9A%A9%EB%B2%95-a-to-zhttpsmblognavercommichaelchae223972794986",
-          "title": "구글나노바나나(NANOBANANA) 사용법 A to Z https://m.blog.naver ...",
-          "publisher": "Google",
-          "date": ""
-        },
-        {
-          "url": "https://blog.naver.com/techref/223976307462?fromRss=true&trackingCode=rss",
-          "title": "나노바나나 AI 사이트 완전 정리: LMArena 사용법과 피규어 생성 후기 ...",
-          "publisher": "Google",
-          "date": ""
-        },
-        {
-          "url": "https://www.threads.com/@choi.openai/post/DNc7JRCOOBs/video-%ED%99%94%EC%A0%9C%EC%9D%98-%EB%82%98%EB%85%B8%EB%B0%94%EB%82%98%EB%82%98-%EC%8B%A4%EC%A0%9C-3d-%EB%AA%A8%EB%8D%B8%EB%A7%81-%EC%A0%9C%EC%9E%91%ED%99%94%EC%A0%9C%EC%9D%98-%EB%82%98%EB%85%B8-%EB%B0%94%EB%82%98%EB%82%98-%EB%AA%A8%EB%8D%B8%EC%9D%84-%EC%8B%A4%EC%A0%9C%EB%A1%9C-3d-%EB%AA%A8%EB%8D%B8%EB%A7%81%EC%9D%84-%ED%95%98%EA%B3%A0-%EC%8B%B6%EC%9D%80-%EB%B6%84%EB%93%A4%EA%BB%98ai-3d-%EB%AA%A8%EB%8D%B8%EB%A7%81-%EC%A4%91-%EA%B0%95%EB%A0%A5%ED%95%9C-meshy-",
-          "title": "화제의 나노바나나 실제 3D 모델링 제작",
-          "publisher": "Google",
-          "date": ""
-        },
-        {
-          "url": "https://blog.naver.com/influencer33/223973020532?fromRss=true&trackingCode=rss",
-          "title": "나노 바나나 무엇일까요 : 네이버 블로그",
-          "publisher": "Google",
-          "date": ""
-        },
-        {
-          "url": "https://www.chosun.com/economy/tech_it/2025/08/18/UH3VBUEG7HWQL3J7775GW737AA/",
-          "title": "포토샵 대체한다고? 정체불명 AI에 쏠린 관심… '나노 바나나' 뭐길래",
-          "publisher": "Google",
-          "date": "2025-08-18T05:16:31.550Z"
-        }
-      ],
-      "metrics": {
-        "trend_last": 30.61,
-        "trend_delta_7": -69.39,
-        "trend_delta_30": 3594.05,
-        "trend_sigma": 29.15,
-        "community_weighted": 20.75,
-        "news_weighted": 0.0
-      },
-      "one_liner": "알 수 없습니다",
-      "summary": "```json\n{\n  \"one_liner\": \"나노바나나, AI 모델링의 혁신\",\n  \"summary\": \"최근 나노바나나의 검색지수가 30.61로 나타났으며, 7일 동안 69.39% 감소하고 30일 동안 3594.05% 증가했습니다. 커뮤니티에서의 가중치는 20.75로, 뉴스에서의 가중치는 0.0입니다. 이러한 변화는 나노바나나에 대한 관심이 급증하고 있음을 보여줍니다.\",\n  \"why_now\": \"AI 기술의 발전과 함께 나노바나나와 같은 혁신적인 도구에 대한 관심이 높아지고 있습니다. 근거가 부족합니다.\",\n  \"gtm_tactics\": [\"소셜 미디어 캠페인\", \"인플루언서 마케팅\", \"커뮤니티 참여 유도\"],\n  \"market\": \"소비자 시장에서 AI 기반 모델링 도구의 수요가 증가하고 있습니다.\",\n  \"risks\": \"기술의 불확실성과 경쟁 증가로 인한 시장 점유율 감소 위험이 존재합니다.\",\n  \"validation_steps\": [\"시장 반응 조사\", \"사용자 피드",
-      "why_now": "확실하지 않음",
-      "gtm_tactics": [],
-      "market": "확실하지 않음",
-      "risks": "확실하지 않음",
-      "validation_steps": []
+      "market": "로봇 시장은 지속적으로 성장하고 있으나, 특정 기술에 대한 관심은 변동성이 큽니다. 근거가 부족합니다.",
+      "risks": "기술 변화에 대한 소비자의 반응이 부정적일 경우 시장 점유율 감소 위험이 있습니다. 근거가 부족합니다.",
+      "validation_steps": [
+        "시장 조사 실시",
+        "소비자 피드백 수집",
+        "경쟁사 분석"
+      ]
     }
   ]
 }
